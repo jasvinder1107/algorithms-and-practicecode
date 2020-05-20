@@ -14,6 +14,5 @@ def selectionsort(a,n):
 
 
 if __name__=="__main__":
-    A=[17,5,3,2,147,1]
     A=[140,11,9,1,7,24,13,23,14]
     selectionsort(A,len(A))
